@@ -13,9 +13,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.retirable.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/retirable/status/master/assets/retirable-icon.png
   name: Retirable Status
-  introTitle:
+  introTitle: "**Retirable** status and uptime"
   introMessage:
   navbar:
     - title: Status
