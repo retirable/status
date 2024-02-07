@@ -10,8 +10,8 @@ assignees: ''
 <!--
 start: 2021-08-24T13:00:00.220Z
 end: 2021-08-24T14:00:00.220Z
-expectedDown: google, hacker-news
+expectedDown: retirable-app, retirable-website
 -->
 
 **Additional context**
-Who/what/when/where/why is this maintenance happening
+Who/what/when/where/why is this maintenance window is being scheduled happening
