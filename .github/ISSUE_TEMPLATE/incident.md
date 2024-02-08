@@ -4,20 +4,14 @@ about: Create an incident notification on the status website
 title: '[Incident] Service is unavailable'
 labels: 'status'
 assignees: ''
-
+body:
+- type: markdown
+  attributes:
+    value: "Make sure you add the affected service (eg `retirable-app`, `retirable-website`) as a label"
+- type: textarea
+  id: summary
+  attributes:
+    label: Summary of Incident
+    description: "Provide a high-level description of the incident. This will be displayed publicly on the status page"
+    placeholder: "Submitting the form on page x results in problem y"
 ---
-
-<!-- Make sure you add the affected service (eg `retirable-app`, `retirable-website`) as a label -->
-
-**Incident**
-Who/what/why/how that explains a quick summary of the incident
-
-**Additional context**
-Add any other context about the problem here.
-
-**History**
-<!-- use this to keep a log of updates -->
-* [12:34pm ET] Incident reported
-* [12:38pm ET] We initiated some action
-
-We will send an additional update in **NEXT_UPDATE_TIME** minutes.
