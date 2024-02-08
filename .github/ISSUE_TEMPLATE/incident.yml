@@ -1,4 +1,3 @@
----
 name: Incident
 about: Create an incident notification on the status website
 title: '[Incident] Service is unavailable'
@@ -14,4 +13,3 @@ body:
     label: Summary of Incident
     description: "Provide a high-level description of the incident. This will be displayed publicly on the status page"
     placeholder: "Submitting the form on page x results in problem y"
----
