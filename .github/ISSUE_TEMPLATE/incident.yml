@@ -1,5 +1,5 @@
 name: Incident
-about: Create an incident notification on the status website
+description: Create an incident notification on the status website
 title: '[Incident] Service is unavailable'
 labels: 'status'
 assignees: 'retirable/core'
